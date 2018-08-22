@@ -193,5 +193,5 @@ jQuery(document).ready(function ($) {
         $('#mute div').css({
             'background': 'url(images/icons/mute_off.png) center center no-repeat'
         });
-    });   
+    });     
 });

@@ -25,6 +25,7 @@ body {
     height: 100%;
     margin: 0 auto;
     position: relative;
+    
 }
 
 #topbar {
@@ -727,6 +728,7 @@ input#round:focus {
     font-size: 40px;
     color: white;
     padding-bottom: 30px;
+    
 }
 
 .weblink a {
@@ -734,7 +736,7 @@ input#round:focus {
 }
 
 .weblink a:hover {
-    color: #B13C3C;
+    color: #7d7d7d;
 }
 
 .weblink span {
@@ -934,3 +936,8 @@ iframe#twitter-widget-1 {
 #fondo {
     color: white;
 }
+
+
+
+  
+
